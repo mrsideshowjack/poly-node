@@ -1,0 +1,23 @@
+{
+  "name": "poly-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsideshowjack/poly-node.git"
+  },
+  "author": "sideshowjack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsideshowjack/poly-node/issues"
+  },
+  "homepage": "https://github.com/mrsideshowjack/poly-node#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "path": "^0.12.7"
+  }
+}
