@@ -10,6 +10,6 @@ app.get('/', function (req, res) {
 
 app.use('/', express.static('public'))
 
-app.listen(80, function() {
-	console.log("app running on port 80");
+app.listen(1000, function() {
+	console.log("app running on port 1000");
 });
